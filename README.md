@@ -1,6 +1,6 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'am+Luzídio+Rafael;I'm+24+years+old;I'am+from+Maputo,MZ;I+study+systems+development+at+USTM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Luzídio+Rafael;I'm+24+years+old;I'am+from+Maputo,MZ;I+study+systems+development+at+USTM;I'm+learning+JS+and+ReactJs;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🤙 Connect with me:
 <div align="left">  
