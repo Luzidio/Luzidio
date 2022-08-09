@@ -9,7 +9,7 @@
 </div>
  <br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Luzidio&theme=gotham&hide_border=true&area=true)
 
 
 <p align= "center">
