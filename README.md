@@ -20,8 +20,8 @@ I'm currently studying more about Javascript, ReactJs and Android development wi
 <h2 align="center">🤙 Connect with me: </h2>
 <div align="left">  
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luzidio" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/665/665212.png" alt="https://www.linkedin.com/in/luzidio" width="35" /></a>
-<a href="https://instagram.com/https://www.instagram.com/luzidio__/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9792/9792697.png" alt="https://www.instagram.com/luzidio__/" width="35" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luzidio" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/665/665212.png" alt="Luzidio Linkedin" width="35" /></a>
+<a href="https://www.instagram.com/iam.luzidio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9792/9792697.png" alt="Luzidio Instagram" width="35" /></a>
 </p>
 </div>
 <hr>
