@@ -1,30 +1,45 @@
 
-## About Me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Luzídio+Rafael;I'm+24+years+old;I'am+from+Maputo,MZ;I+study+systems+development+at+USTM;I'm+learning+JS+and+ReactJs;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hi+there+👋;My+name+is+Luzídio+Rafael;I'am+from+Maputo,MZ;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## 🤙 Connect with me:
+
+<hr>
+
+<h2 align="center">About Me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+
+<img align="left" height="150" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e477psdug6ux5fok1bdtlxgcknzpkp0ocxopyak2u6a&rid=giphy.gif&ct=s" alt="octocat" style="margin-right: 2rem;" />
+I'm a newbie web developer looking to learn, grow, share and develop my skills in the field of web development.
+
+I finished my Training in Application Analysis and Programming at Cedsif (- Finance Information Systems Development Center) and now I'm focused on finishing my degree in Software Development at USTM (Universidade São Tomás de Moçambique).
+
+I'm currently studying more about Javascript, ReactJs and Android development with Java...
+
+• How to reach me: <a href="mailto: luzidiorafaell@gmail.com">Luzidiorafaell@gmail.com</a>
+
+<hr>
+
+<h2 align="center">🤙 Connect with me: </h2>
 <div align="left">  
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luzidio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luzidio" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/luzidio__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luzidio__/" height="30" width="40" /></a>
-<a href="https://discord.gg/9659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9659" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luzidio" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/665/665212.png" alt="https://www.linkedin.com/in/luzidio" width="35" /></a>
+<a href="https://instagram.com/https://www.instagram.com/luzidio__/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9792/9792697.png" alt="https://www.instagram.com/luzidio__/" width="35" /></a>
 </p>
 </div>
+<hr>
+<h2 align="center">📊 GitHub Stats: </h2>
 
-## 👨‍💻 Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-
-
-
-# 📊 GitHub Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luzidio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luzídio Rafael github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzidio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution Chart.](https://activity-graph.herokuapp.com/graph?username=Luzidio&theme=gotham&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=luzidio&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<h4 align="center">
+  <a href="https://github.com/Luzidio?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
