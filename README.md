@@ -9,7 +9,8 @@
 <img align="left" height="150" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e477psdug6ux5fok1bdtlxgcknzpkp0ocxopyak2u6a&rid=giphy.gif&ct=s" alt="octocat" style="margin-right: 2rem;" />
 I'm a newbie web developer looking to learn, grow, share and develop my skills in the field of web development.
 
-I finished my Training in Application Analysis and Programming at Cedsif (- Finance Information Systems Development Center) and now I'm focused on finishing my degree in Software Development at USTM (Universidade São Tomás de Moçambique).
+I finished my Training in Application Analysis and Programming at Cedsif (Centro de Desenvolvimento de 
+Sistemas de Informação de Finanças) and now I'm focused on finishing my degree in Software Development at USTM (Universidade São Tomás de Moçambique).
 
 I'm currently studying more about Javascript, ReactJs and Android development with Java...
 
