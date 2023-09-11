@@ -12,7 +12,7 @@ I'm a newbie web developer looking to learn, grow, share and develop my skills i
 I finished my Training in Application Analysis and Programming at Cedsif (Centro de Desenvolvimento de 
 Sistemas de Informação de Finanças) and now I'm focused on finishing my degree in Software Development at USTM (Universidade São Tomás de Moçambique).
 
-I'm currently studying more about Javascript, ReactJs and Android development with Java...
+I'm currently studying more about Javascript, ReactJs ...
 
 • How to reach me: <a href="mailto: luzidiorafaell@gmail.com">Luzidiorafaell@gmail.com</a>
 
