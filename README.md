@@ -29,12 +29,16 @@ I'm currently studying more about Javascript, ReactJs ...
 <h2 align="center">📊 GitHub Stats: </h2>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luzidio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luzídio Rafael github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luzidio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Luzidio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Luzídio Rafael github stats" /> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luzidio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<!-- 
+Gráfico Parrado
+![Ashutosh's github activity graph](https://github-stats-activity-graph.vercel.app/graph?username=Luzidio&bg_color=0d1117&color=58c4df&line=5bcdec&point=ffffff&area=true&hide_border=true)
+-->
+<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Luzidio&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="90%" >
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luzidio&bg_color=0d1117&color=58c4df&line=5bcdec&point=ffffff&area=true&hide_border=true)
 
 <hr>
 
